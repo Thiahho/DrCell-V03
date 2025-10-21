@@ -1,5 +1,5 @@
 🔹 README – Sistema E-commerce DrCell
-1. Nombre del Proyecto
+1. Sistema E-commerce DrCell
 
 DrCell – Sistema de E-commerce y Reparaciones de Celulares
 
